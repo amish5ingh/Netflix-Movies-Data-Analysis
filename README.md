@@ -72,13 +72,13 @@ Netflix-Movies-Analysis/
 ## 📊 Sample Visualizations
 
 ### 🎬 Genre Distribution
-![Genre Distribution](genre_distribution.png.png)
+![Genre Distribution](genre_distribution.png)
 
 ### ⭐ Vote Average Distribution
-![Vote Distribution](vote_distribution.png.png)
+![Vote Distribution](vote_distribution.png)
 
 ### 📅 Release Year Histogram
-![Release Year Histogram](release_year_histogram.png.png)
+![Release Year Histogram](release_year_histogram.png)
 
 
 
