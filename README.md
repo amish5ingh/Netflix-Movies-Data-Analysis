@@ -65,10 +65,20 @@ Netflix-Movies-Analysis/
 ├── NetflixDataAnalysis.py
 ├── README.md
 ├── outputs/
-           │ ├── genre_distribution.png │
-           ├── vote_distribution.png 
+           │ ├── genre_distribution.png
+           │ ├── vote_distribution.png 
            │ └── release_year_histogram.png
  ```
+## 📊 Sample Visualizations
+
+### 🎬 Genre Distribution
+![Genre Distribution](outputs/genre_distribution.png)
+
+### ⭐ Vote Average Distribution
+![Vote Distribution](outputs/vote_distribution.png)
+
+### 📅 Release Year Histogram
+![Release Year Histogram](outputs/release_year_histogram.png)
 
 
 
