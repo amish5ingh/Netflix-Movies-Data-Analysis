@@ -60,4 +60,12 @@ A data-driven exploration of Netflix movie trends using Python. This project ana
 
 ## 📂 Folder Structure
 
+Netflix-Movies-Analysis/
+├── mymoviedb.csv 
+├── netflix_analysis.py
+├── README.md
+├── outputs/
+           │ ├── genre_distribution.png │
+           ├── vote_distribution.png 
+           │ └── release_year_histogram.png
 
