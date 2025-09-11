@@ -1,3 +1,4 @@
+                  #Netflix-Movies-Data-Analysis 
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -110,5 +111,6 @@ print(df[df['Popularity']==df['Popularity'].min()])
 df['Release_Date'].hist()
 plt.title('Release Date Column distribution')
 plt.show()
+
 
 
